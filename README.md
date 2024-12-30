@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋<br><br>- 🏙 I’m a student at the State University of Jakarta (Universitas Negeri Jakarta)<br>- 👀 I’m passionate about programming and all things technology<br>- 🔭 I’m currently working on a **Ray Tracing Simulation Web App**<br>- 🌱 I’m currently learning **JavaScript and Ray Tracing**<br>
+### Hi there 👋<br><br>- 🏙 I’m a student at the State University of Jakarta (Universitas Negeri Jakarta)<br>- 👀 I’m passionate about programming and all things technology<br>- 🔭 I’m currently working on a **FlashMemo App**<br>- 🌱 I’m currently learning **Kotlin Jetpack Compose**<br>
 
 
 ## 🌐 Socials:
